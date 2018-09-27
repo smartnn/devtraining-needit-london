@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="email_client=true,query_hints=true,hasWorkflow=true,live_feed=true" audit="true" extends="task" label="インシデント" max_length="40" name="incident" sizeclass="54" text_index="true" type="collection">
+        <element label="Sample Column" max_length="40" name="x_58872_needit_sample_column" type="string"/>
+    </element>
+</database>
